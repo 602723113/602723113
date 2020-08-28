@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Zoyn's github stats](https://github-readme-stats.vercel.app/api?username=602723113&show_icons=true)
+
+![Zoyn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=602723113&layout=compact)
+
 <!--
 **602723113/602723113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
