@@ -1,4 +1,9 @@
 ### Hi there 👋
+我没有别的想法，写代码只是为了我的 心情愉悦  
+
+非CS专业，学金融的，代码写得差没办法  
+
+个人blog在 https://blog.zoyn.top/ 瞎几把写一些东西
 
 ![Zoyn's github stats](https://github-readme-stats.vercel.app/api?username=602723113&show_icons=true)
 
